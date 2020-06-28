@@ -1,0 +1,18 @@
+# Site settings
+name: Shikai Jin
+location: Rice Univesity, Houston, TX
+Mentor: Peter Wolynes
+#github: https://github.com/
+#facebook: https://www.facebook.com/
+#phone: 1580424XXXX
+#email: xxxx@xxx.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
