@@ -2630,8 +2630,6 @@ img.aligncenter {
 .avatar-195 {
     width: 195px;
     height: 195px;
-    object-fit: cover;
-    object-position: 0 -15px;
 }
 
 /**
