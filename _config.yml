@@ -1,13 +1,13 @@
 # Site settings
-name: Shikai Jin
-location: Rice Univesity, Houston, TX
-Mentor: Peter Wolynes
-#github: https://github.com/
-#facebook: https://www.facebook.com/
-#phone: 1580424XXXX
-#email: xxxx@xxx.com
+name: Yiming Zhou
+location: Chengdu/Beijing
+company: UISEE
+position: Computer Vision Engineer
+github: https://github.com/zym1119
+phone: 18113114505
+email: 823756414@qq.com
 
-baseurl: "/resume.io"
+baseurl: "/zym1119.github.io"
 
 permalink: /:year/:month/:day/:title/
 
