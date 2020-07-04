@@ -472,9 +472,9 @@ dd {
     .dl-horizontal dt {
         float: left;
         width: 100px;
-        overflow: hidden;
+        /*  overflow: hidden; */
         clear: left;
-        text-overflow: ellipsis;
+        /* text-overflow: ellipsis; */
         white-space: nowrap;
     }
 
