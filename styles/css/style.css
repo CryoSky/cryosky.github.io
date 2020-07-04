@@ -347,7 +347,8 @@ dl {
 
 dt {
     font-weight: bold;
-    text-transform: uppercase;
+    text-transform: none;
+    /* text-transform: uppercase; */
     font-size: 0.9em;
     letter-spacing: 0.01em;
 }
@@ -476,6 +477,8 @@ dd {
         clear: left;
         /* text-overflow: ellipsis; */
         white-space: nowrap;
+	word-wrap:break-word; 
+        word-break:break-all;
     }
 
     .dl-horizontal dd {
